@@ -1,0 +1,34 @@
+/* style.css*/
+* {
+    border:1px solid red;
+}
+p {
+    color:aquamarine;
+    font-size: 10px;
+}
+body {
+    background-color:lavenderblush;
+}
+h1{
+    color:antiquewhite;
+}
+.sub-title{
+    color:blanchedalmond;
+}
+#writter {
+    color:brown;
+    text-align:right
+}
+h6 {
+    text-align:right
+
+}
+.main-list li {
+    color:darkseagreen;
+}
+a:hover{
+    color:bisque;
+}
+.destination {
+    font-family:'궁서체';
+}
